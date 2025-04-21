@@ -1,0 +1,6 @@
+gplearn.egg-info/PKG-INFO
+gplearn.egg-info/SOURCES.txt
+gplearn.egg-info/dependency_links.txt
+gplearn.egg-info/not-zip-safe
+gplearn.egg-info/requires.txt
+gplearn.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gplearn
+Version: 0.5.dev0
+Summary: Genetic Programming in Python, with a scikit-learn inspired API
+Home-page: https://github.com/trevorstephens/gplearn
+Author: Trevor Stephens
+Author-email: trev.stephens@gmail.com
+License: new BSD
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
